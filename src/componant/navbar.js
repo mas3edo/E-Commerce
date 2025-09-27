@@ -469,6 +469,7 @@ function Navbar() {
           transform: translateY(-10px);
           transition: all 0.3s ease;
           pointer-events: none;
+          z-index: 100;
         }
         .profile-menu.open {
           max-height: 500px;

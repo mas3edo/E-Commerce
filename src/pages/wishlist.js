@@ -91,15 +91,7 @@ function Wishlist() {
             ))}
           </div>
         )}
-        <div style={{ marginTop: 32, textAlign: "center" }}>
-          <button
-            className="back-to-shop-btn"
-            onClick={() => navigate("/shop")}
-            style={{ margin: "0 auto" }}
-          >
-            Back to Shop
-          </button>
-        </div>
+        <div style={{ marginTop: 32, textAlign: "center" }}></div>
         <style>{`
             .back-to-shop-btn {
               background: #fff;

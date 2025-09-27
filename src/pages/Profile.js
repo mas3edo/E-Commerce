@@ -148,7 +148,6 @@ function Profile() {
 											left: 0;
 											width: 100vw;
 											background: #fff;
-											z-index: 100;
 											box-sizing: border-box;
 										}
 										.profile-mobile-categories::-webkit-scrollbar {
